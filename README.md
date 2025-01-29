@@ -2,7 +2,6 @@
 
 This repository is no longer actively maintained and will be archived. Please use [algokit-avm-debugger](https://github.com/algorandfoundation/algokit-avm-debugger) going forward.
 
-
 ## Summary
 
 This repo contains an AVM debugger which adheres to the [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/).
