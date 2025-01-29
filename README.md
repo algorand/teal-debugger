@@ -1,3 +1,5 @@
+> **DEPRECATED:** This repository is no longer actively maintained. Please use [algokit-avm-debugger](https://github.com/algorandfoundation/algokit-avm-debugger) instead.
+> 
 # AVM Debugger
 
 ![GitHub Actions Workflow](https://github.com/algorand/avm-debugger/actions/workflows/ci.yml/badge.svg)
