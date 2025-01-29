@@ -1,7 +1,6 @@
-# AVM Debugger
+# DEPRECATED
 
-![GitHub Actions Workflow](https://github.com/algorand/avm-debugger/actions/workflows/ci.yml/badge.svg)
-[![npm version](https://badge.fury.io/js/avm-debug-adapter.svg)](https://www.npmjs.com/package/avm-debug-adapter)
+This repository is no longer actively maintained and will be archived. Please use [algokit-avm-debugger](https://github.com/algorandfoundation/algokit-avm-debugger) going forward.
 
 ## Summary
 
